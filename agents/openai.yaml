@@ -1,0 +1,4 @@
+interface:
+  display_name: "咨询案例中文面官稿"
+  short_description: "将英文咨询案例整理为专业中文面官稿，并检索相似练习案例"
+  default_prompt: "使用 $translate-consulting-cases-zh 将这份英文咨询案例整理成精炼的中文面官稿，并推荐经核验的相关练习案例。"
